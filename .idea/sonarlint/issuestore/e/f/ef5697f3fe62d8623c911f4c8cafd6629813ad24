@@ -1,0 +1,12 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8µ¥åŸœ2J$506ac484-122b-463b-861c-72f0f2385395
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÑšëŸœ2
+r	java:S106"+Replace this use of System.out by a logger.(Î€ß°üÿÿÿÿ8şÍŸœ2J$e8d7caa3-7694-4cd7-8949-ac43d45aadd6
+m	java:S106"+Replace this use of System.out by a logger.(Ë’8©¨ÛŸœ2J$2a6bb382-4df1-43ef-a8c1-5c50d9b171c2
+m	java:S106"+Replace this use of System.out by a logger.(Ş¿Ûõ8¬¨ÛŸœ2J$768c4f4c-d002-4470-b4e0-f08661d4ec49
+r	java:S106"+Replace this use of System.out by a logger.(İ»Öãûÿÿÿÿ8­¨ÛŸœ2J$bc10674e-bbe7-4c64-98fa-fc769e613d1d
+l	java:S106"+Replace this use of System.out by a logger.(É¯¸i8®¨ÛŸœ2J$15506c3c-1b11-41ca-84a0-5461cd55217f
+‹
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8±êŸœ2J$88757336-ef5e-47b7-b1a1-591e4c98105d
